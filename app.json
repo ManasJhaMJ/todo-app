@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "todo",
+    "name": "Todo",
     "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash.png",
     "userInterfaceStyle": "light",
     "scheme": "todo",
     "splash": {
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/splash.png",
         "backgroundColor": "#ffffff"
       }
     },
